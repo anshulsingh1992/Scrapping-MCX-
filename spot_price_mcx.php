@@ -1,4 +1,14 @@
 <?php
+/*~ Scrapping MCX market Exchange Gold spot price .
+.---------------------------------------------------------------------------.
+|
+|   Authors: Anshul Singh |
+| ------------------------------------------------------------------------- |
+| This program is distributed in the hope that it will be useful - WITHOUT  |
+| ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or     |
+| FITNESS FOR A PARTICULAR PURPOSE.                                         |
+'---------------------------------------------------------------------------'
+*/
 /*ini_set("error_reporting", E_ERROR);
 ini_set("error_reporting", E_ALL);
 ini_set("display_errors", 1);*/
